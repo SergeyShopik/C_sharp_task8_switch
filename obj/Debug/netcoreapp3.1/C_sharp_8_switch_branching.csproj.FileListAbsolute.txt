@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\bin\Debug\netcoreapp3.1\C_sharp_8_switch_branching.exe
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\bin\Debug\netcoreapp3.1\C_sharp_8_switch_branching.deps.json
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\bin\Debug\netcoreapp3.1\C_sharp_8_switch_branching.runtimeconfig.json
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\bin\Debug\netcoreapp3.1\C_sharp_8_switch_branching.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\bin\Debug\netcoreapp3.1\C_sharp_8_switch_branching.dll
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\bin\Debug\netcoreapp3.1\C_sharp_8_switch_branching.pdb
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\obj\Debug\netcoreapp3.1\C_sharp_8_switch_branching.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\obj\Debug\netcoreapp3.1\C_sharp_8_switch_branching.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\obj\Debug\netcoreapp3.1\C_sharp_8_switch_branching.AssemblyInfo.cs
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\obj\Debug\netcoreapp3.1\C_sharp_8_switch_branching.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\obj\Debug\netcoreapp3.1\C_sharp_8_switch_branching.dll
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\obj\Debug\netcoreapp3.1\C_sharp_8_switch_branching.pdb
+C:\Users\HP\source\repos\C_sharp_8_switch_branching\obj\Debug\netcoreapp3.1\C_sharp_8_switch_branching.genruntimeconfig.cache
